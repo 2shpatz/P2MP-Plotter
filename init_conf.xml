@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+
+<circles>
+
+	<cir name="CB0">
+	
+		<center>[100,700]</center>
+		<radius>20</radius>
+		<lineColor>green</lineColor>
+		<shade>cyan2</shade>
+		<text>CB0</text>
+		
+	</cir>
+
+	<cir name="CB1">
+	
+		<center>[300,200]</center>
+		<radius>20</radius>
+		<lineColor>orange</lineColor>
+		<shade>None</shade>
+		<text>CB1</text>
+		
+	</cir>
+
+	<cir name="CB2">
+	
+		<center>[600,220]</center>
+		<radius>20</radius>
+		<lineColor>black</lineColor>
+		<shade>None</shade>
+		<text>CB2</text>
+		
+	</cir>
+	
+	
+	<cir name="CB3">
+	
+		<center>[500,300]</center>
+		<radius>20</radius>
+		<lineColor>black</lineColor>
+		<shade>None</shade>
+		<text>CB3</text>
+		
+	</cir>
+
+	
+	<cir name="CB4">
+	
+		<center>[400,200]</center>
+		<radius>20</radius>
+		<lineColor>black</lineColor>
+		<shade>None</shade>
+		<text>CB4</text>
+		
+	</cir>
+	
+	
+	<cir name="CB5">
+	
+		<center>[700,400]</center>
+		<radius>20</radius>
+		<lineColor>black</lineColor>
+		<shade>None</shade>
+		<text>CB5</text>
+		
+	</cir>
+</circles>
